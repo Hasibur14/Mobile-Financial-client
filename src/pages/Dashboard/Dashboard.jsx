@@ -3,7 +3,9 @@
 const Dashboard = () => {
     return (
         <div>
-            <h2>Dashboard</h2>
+            <h2 className="text-xl font bold">
+                Welcome To Ez Cash Portal
+            </h2>
         </div>
     );
 };
